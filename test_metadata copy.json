@@ -1,0 +1,12 @@
+{
+    "name": "hackaccino",
+    "description": "web3 certificate",
+    "file_url": "https://ipfs.io/ipfs/QmRModSr9gQTSZrbfbLis6mw21HycZyqMA3j8YMRD11nAQ",
+ 
+    "custom_fields" : {
+        "course": "B.tech",
+        "specialization": "CSE",
+        "university": "BU",
+        "class_of": "2025"
+    }
+}
